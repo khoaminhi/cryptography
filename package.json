@@ -1,0 +1,22 @@
+{
+  "name": "cryptography",
+  "version": "1.0.0",
+  "description": "hash > symmetry > asymmetry (performance)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khoaminhi/cryptography.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/khoaminhi/cryptography/issues"
+  },
+  "homepage": "https://github.com/khoaminhi/cryptography#readme",
+  "dependencies": {
+    "crypto-js": "^4.1.1"
+  }
+}
